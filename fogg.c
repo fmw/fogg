@@ -1,3 +1,11 @@
+/*
+fogg.c: FastCGI application that streams Ogg media resources. 
+
+Copyright (c) 2009, Filip de Waard. All rights reserved.
+This code is distributed under the terms in the LICENSE file.
+
+*/
+
 #define _GNU_SOURCE //enable GNU extension that includes strndup()
 
 //TODO: read this from configuration.
